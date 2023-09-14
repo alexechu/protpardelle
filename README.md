@@ -6,6 +6,8 @@ Code for the paper: [An all-atom protein generative model](https://www.biorxiv.o
 
 The code is under active development and we welcome contributions, feature requests, issues, corrections, and any questions! Where we have used or adapted code from others we have tried to give proper attribution, but please let us know if anything should be corrected.
 
+![twitter_movie3](https://github.com/alexechu/protpardelle/assets/16140426/f18fa9cb-2602-428c-8c3b-0898579baf67)
+
 ## Environment and setup
 
 To set up the conda environment, run `conda env create -f configs/environment.yml` then `conda activate delle`. You will also need to clone the [ProteinMPNN repository](https://github.com/dauparas/ProteinMPNN) to the same directory that contains the `protpardelle/` repository. You may also need to set the `home_dir` variable in the configs you use to the path to the directory containing the `protpardelle/` directory.
